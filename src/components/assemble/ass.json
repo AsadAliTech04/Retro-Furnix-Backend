@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_assemble_asses",
+  "info": {
+    "displayName": "Assemble",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "assemble": {
+      "type": "string"
+    }
+  }
+}

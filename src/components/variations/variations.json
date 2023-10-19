@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_variations_variations",
+  "info": {
+    "displayName": "Variations",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "assemble": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_variations_product_variations",
+  "info": {
+    "displayName": "Product Variation",
+    "icon": "",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Color": {
+      "type": "string"
+    }
+  }
+}
